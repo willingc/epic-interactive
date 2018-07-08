@@ -294,27 +294,61 @@ Skills used:
 
 # p5.js
 
-### https://p5js.org/
+## [https://p5js.org/](https://p5js.org)
+
+![](images/p5-js-home.png) 
 
 ---
 
-# See an example
+# Learn about p5.js
 
-### *add link*
+### [https://hello.p5js.org/](https://hello.p5js.org/)
 
 ---
 
-# Explore documentation
+# Explore
 
-### https://p5js.org
+### [Reference](https://p5js.org/reference/) | [Referencia](https://p5js.org/es/reference/)
 
-ES and EN
+![right, fit](images/referencia.png)
 
 ---
 
 # Try the editor
 
-### https://alpha.editor.p5js.org/
+### [https://alpha.editor.p5js.org/](https://alpha.editor.p5js.org/)
+
+---
+
+![fit](images/editor.png)
+
+---
+
+![fit](images/editor-examples.png)
+
+---
+
+![fit](images/wavemaker.png)
+
+---
+
+# Interact
+
+### Move mouse over image
+### Change | Run | Change | Run
+
+---
+
+## Project 4
+
+#  Get started with JavaScript
+
+- Use a new language
+- Help with Reference
+- Try the editor
+- Run an example
+
+## :sparkles: Completed :sparkles:
 
 ---
 
