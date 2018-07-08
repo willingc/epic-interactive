@@ -1,6 +1,7 @@
 footer: ©Carol Willing, 2018.
 slidenumbers: true
 build-lists: true
+theme: Next, 2
 
 # Interactivity
 
@@ -54,73 +55,81 @@ build-lists: true
 | Time      |             |
 |-----------|-------------|
 | *1:10 pm* | People |
-| *1:20 pm* | Jobs  |
+| *1:20 pm* | Projects  |
 | *1:30 pm* | Design and Google |
 | *1:45pm*  | p5.js |
 | *2:30 pm* | Jupyter and mybinder.org |
 | *2:45 pm* | Next steps |
 
-<!--
+---
 
-  Start "People"
+## Project 1
 
--->
+# :smile: People & Teams :smile: 
 
 ---
 
-# :smile: People :smile:
-
----
-
-# Who
-
-## are computer scientists?
+# Who are computer scientists?
 
 ^ 1:10 pm
 
----
-
-Info on each person
-
----
-
-# Exercise
-
-## Who?
+Choose who you would:
+- want on your team
+- like to meet
+- ask a question
 
 ---
 
-# Who?
-
-Circle anyone you would like to meet
-
-^
-Luz Rivas
-Jesus Medrano
-Ana Ruvalcaba
-Omoju
-Limor Fried
-Rose Robinson
-Brian Lyles
+# Luz Rivas
 
 ---
 
-<!--
-
-  Start "Jobs"
-
--->
+# Jesus Medrano
 
 ---
 
-# Jobs 
+# Omoju
+
+---
+
+# Limor Fried
+# (Ladyada)
+
+---
+
+# Rose Robinson
+
+---
+
+# Ana Ruvalcaba
+
+---
+
+# Brian Lyles
+
+---
+
+# You
+
+---
+
+## Project 1
+
+# People & teams
+
+- Build a team
+- Find a role model
+- Ask questions
+
+## :tada: Completed :tada:
+---
+
+# Jobs
 ## :school: :office: :post_office: :hospital: :construction: :airplane:
 
 ---
 
-# What
-
-## are computer science jobs?
+# Computer science jobs
 
 ^ 1:20 pm
 
@@ -132,25 +141,29 @@ Here's a job for you.
 
 ---
 
-# Exercise
+# Project 2
 
-## What?
+## Computer Science careers
 
 ---
 
-# Exercise: What?
+# Computer Science careers
 
 Circle any that interest you.
 
 ---
 
-<!--
+# Project 2
 
-  Start "Design"
+# Computer Science careers
 
--->
+- Find your interests
+- Learn which career you may like
+- Understand many careers in CS beyond coding  
 
+## :smile: Completed :smile:
 ---
+
 
 # Design at Google 
 ## :video_game: :musical_score: :musical_keyboard: :art:
@@ -169,7 +182,7 @@ https://www.google.com/doodles?q=interactive
 
 ---
 
-## Job 1
+## Project 3
 
 # Design a New Doodle
 
@@ -179,11 +192,11 @@ https://www.google.com/doodles?q=interactive
 
 # Step 1: Try the Doodles
 
-[https://www.google.com/logos/2017/fischinger/fischinger17.html](https://www.google.com/logos/2017/fischinger/fischinger17.html)
+[Fischinger](https://www.google.com/logos/2017/fischinger/fischinger17.html)
 
-[https://www.google.com/logos/2017/hiphop/hiphop17.html](https://www.google.com/logos/2017/hiphop/hiphop17.html)
+[Hip Hop](https://www.google.com/logos/2017/hiphop/hiphop17.html)
 
-[https://www.google.com/search?q=snake+game](https://www.google.com/search?q=snake+game)
+[Snake Game](https://www.google.com/search?q=snake+game)
 
 ---
 
@@ -212,11 +225,13 @@ Explore doodle web page with Chrome Developer tools.
 - Menu: View -> Developer -> JavaScript Console
 - Menu: View -> Developer -> Developer tools
 
+[Google Web documentation](https://developers.google.com/web/)
+
 [:eyes: JavaScript documentation from Mozilla :eyes:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
-## Job 1 - Completed :tada:
+## Project 3 - Completed :tada:
 
 # Computer Science skills
 
@@ -227,23 +242,15 @@ Explore doodle web page with Chrome Developer tools.
 
 ---
 
-<!--
-
-  Start "P5js - Job 2"
-
--->
-
----
-
-## Job 2
+## Project 4
 
 #  Get started with JavaScript
 
 ---
 
-# p5js
+# p5.js
 
-## Processing.org
+### https://p5js.org/
 
 ---
 
@@ -267,15 +274,9 @@ ES and EN
 
 ---
 
-<!--
+## Project 5
 
-  Start "P5js - Job 3 - drawing"
-
--->
-
----
-
-## Job 3: Drawing
+# Drawing
 
 ---
 
@@ -344,15 +345,15 @@ ellipse(50, 50, 80, 80);
 
 ---
 
-## Job 4: Movement
+## Project 6: Movement
 
 ---
 
-## Job 5: Interactivity
+## Project 7: Interactivity
 
 ---
 
-## EXTRA - Job 6: Styling for the web
+## EXTRA - Styling for the web
 
 Codepen
 
