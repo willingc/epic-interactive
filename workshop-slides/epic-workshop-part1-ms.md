@@ -3,9 +3,11 @@ slidenumbers: true
 build-lists: true
 theme: Next, 2
 
-# Interactivity
 
-### EPIC Computer Science Middle School
+# Interactivity
+## in Computer Science
+
+### EPIC Middle School Workshop
 ### July 2018
 
 ---
@@ -32,7 +34,16 @@ theme: Next, 2
 
 ---
 
-# Goals
+# Programming Languages
+
+## JavaScript
+
+:snake:
+
+## Python
+---
+
+# My Goals for this workshop
 
 * Hands-on
 * Explore JavaScript and Python
@@ -52,14 +63,18 @@ theme: Next, 2
 
 # :alarm_clock: Schedule :alarm_clock:
 
-| Time      |             |
+| Time      | Project    |
 |-----------|-------------|
-| *1:10 pm* | People |
-| *1:20 pm* | Projects  |
-| *1:30 pm* | Design and Google |
-| *1:45pm*  | p5.js |
+| *1:10 pm* | People      |
+| *1:20 pm* | Careers     |
+| *1:30 pm* | Design at Google |
+| *1:45pm*  | p5.js       |
 | *2:30 pm* | Jupyter and mybinder.org |
-| *2:45 pm* | Next steps |
+| *2:45 pm* | Next steps  |
+
+^ Time for interest
+Less work or more work
+bump to 15 minutes
 
 ---
 
@@ -67,45 +82,68 @@ theme: Next, 2
 
 # :smile: People & Teams :smile: 
 
+^ Pacing: 1:10 pm
+
 ---
 
-# Who are computer scientists?
+# Who uses computer science?
 
-^ 1:10 pm
+^ add a table with photos of all
 
-Choose who you would:
+---
+
+### Task
+## Choose someone who you would:
+
 - want on your team
 - like to meet
-- ask a question
+- like to ask a question
 
 ---
 
 # Luz Rivas
 
+^ California, Assembly 
+DIY Girls, Founder
+Maker
+
 ---
 
 # Jesus Medrano
 
+^ Uber Eats, Software Engineer
+
 ---
 
 # Omoju
+
+^ GitHub, Data Scientist
 
 ---
 
 # Limor Fried
 # (Ladyada)
 
+^ Adafruit, Engineer and Business owner
+
 ---
 
 # Rose Robinson
+
+^ Community Manager, Systers and AnitaB.org
 
 ---
 
 # Ana Ruvalcaba
 
+^ Jupyter, Operations Manager
+
 ---
 
-# Brian Lyles
+# Bryan Liles
+
+^ https://www.youtube.com/watch?v=fYCoEsc4aaE Cognitive Bias
+Heptio, Engineer
 
 ---
 
@@ -117,21 +155,25 @@ Choose who you would:
 
 # People & teams
 
-- Build a team
+- Teamwork is important
 - Find a role model
 - Ask questions
 
 ## :tada: Completed :tada:
----
-
-# Jobs
-## :school: :office: :post_office: :hospital: :construction: :airplane:
 
 ---
 
-# Computer science jobs
+## Project 2
 
-^ 1:20 pm
+# Computer Science Careers
+
+## :school: :construction: :airplane: :office:
+
+^ Pacing: 1:20 pm
+
+---
+
+Coding is one of many CS careers.
 
 ---
 
@@ -139,21 +181,19 @@ Choose who you would:
 
 Here's a job for you.
 
----
-
-# Project 2
-
-## Computer Science careers
 
 ---
 
-# Computer Science careers
+### Task
+## What interests you?
 
-Circle any that interest you.
+Circle any careers that interest you.
+
+![right](https://youtu.be/lHC10q_a7Nc)
 
 ---
 
-# Project 2
+## Project 2
 
 # Computer Science careers
 
@@ -164,47 +204,47 @@ Circle any that interest you.
 ## :smile: Completed :smile:
 ---
 
+## Project 3
 
-# Design at Google 
+# Design at Google
+
 ## :video_game: :musical_score: :musical_keyboard: :art:
 
-^ 1:30
+^ Pacing: 1:30 pm
 
 ---
 
 # Google Doodles
 
-[Google Doodles](https://www.google.com/doodles?q=interactive)
+![inline](images/google-doodle.png)
 
-*Add image*
-
-https://www.google.com/doodles?q=interactive
-
----
-
-## Project 3
-
-# Design a New Doodle
-
-^ Software engineers and computer scientists do this every day.
+See the [Google Doodles](https://www.google.com/doodles) page.
 
 ---
 
 # Step 1: Try the Doodles
 
-[Fischinger](https://www.google.com/logos/2017/fischinger/fischinger17.html)
+[Fischinger doodle](https://www.google.com/doodles/oskar-fischingers-117th-birthday)
 
-[Hip Hop](https://www.google.com/logos/2017/hiphop/hiphop17.html)
+[Hip Hop](https://www.google.com/doodles/44th-anniversary-of-the-birth-of-hip-hop)
 
 [Snake Game](https://www.google.com/search?q=snake+game)
+
+![inline, left](images/fischinger.png) ![inline, center](images/hiphop.png) ![inline, left](images/snakegame.png)
 
 ---
 
 # Step 2: Design/UX Review
 
-**Pick a Doodle.**
-- What do you like best?
-- What would you change?
+**Choose a Google Doodle.**
+- What things were *interactive*?
+- How did it *start*?
+- How did it *end*?
+- What do you *like* best?
+- What would you *change*?
+
+
+:bulb: **UX** = **U**ser E**x**perience :bulb:
 
 ---
 
@@ -214,6 +254,8 @@ https://www.google.com/doodles?q=interactive
 - What would be interactive?
 - Theme/Subject of doodle
 - Share with someone
+
+![right](images/hiphop-sketch.png) 
 
 ---
 
@@ -231,14 +273,16 @@ Explore doodle web page with Chrome Developer tools.
 
 ---
 
-## Project 3 - Completed :tada:
+## Project 3
 
-# Computer Science skills
+# Design at Google
 
+Skills used:
 - Product research
-- Design
-- User Interface (UX)
+- User Interface and UX
 - Computer Human Interactions
+
+## :art: Completed :art:
 
 ---
 
