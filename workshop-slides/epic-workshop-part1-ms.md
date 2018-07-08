@@ -1,28 +1,29 @@
-footer: © Carol Willing, 2018.
+footer: ©Carol Willing, 2018.
 slidenumbers: true
+build-lists: true
 
 # Interactivity
 
-## in Computer Science
-
 ### EPIC Computer Science Middle School
+### July 2018
 
 ---
 
-## Welcome
+# :wave: Hi :wave:
+
+## I'm Carol
 
 ---
 
-### Why Computer Science?
+# Why Computer Science?
 
-- Data
-- Applications
+- Applications for people
 - Life skill
 - Empowering
 
 ---
 
-### Why Interactive?
+# Why Interactive?
 
 - Creative
 - Expressive
@@ -30,45 +31,66 @@ slidenumbers: true
 
 ---
 
-## Schedule
+# Goals
+
+* Hands-on
+* Explore JavaScript and Python
+* Inspire to do more
+* Share
 
 ---
 
-### My Goals
+# What do we need today?
 
-* Mostly hands-on and interactive
-* Inspire you to try things beyond this workshop
-* Introduce you to how things work together
-
----
-
-
-### What we need
-
-1. You
-2. Computer (or Smartphone or Tablet)
-3. Modern Web Browser (Chrome)
-4. Internet access to web
+* Computer (or Smartphone or Tablet)
+* Browser (Chrome)
+* Web
+* **You**
 
 ---
 
-### What you will accomplish
+# :alarm_clock: Schedule :alarm_clock:
 
-1. Find a computer science role model
-2. Understand some jobs in computer science
-3. Learn how Google makes an interactive Doodle
-4. Use p5js - JavaScript
-5. Build an interactive web example
-6. Experiment with Project Jupyter and nteract
-7. More information / what's next
+| Time      |             |
+|-----------|-------------|
+| *1:10 pm* | People |
+| *1:20 pm* | Jobs  |
+| *1:30 pm* | Design and Google |
+| *1:45pm*  | p5.js |
+| *2:30 pm* | Jupyter and mybinder.org |
+| *2:45 pm* | Next steps |
+
+<!--
+
+  Start "People"
+
+-->
 
 ---
 
-## Who are computer scientists?
+# :smile: People :smile:
 
 ---
 
-### Who?
+# Who
+
+## are computer scientists?
+
+^ 1:10 pm
+
+---
+
+Info on each person
+
+---
+
+# Exercise
+
+## Who?
+
+---
+
+# Who?
 
 Circle anyone you would like to meet
 
@@ -77,51 +99,85 @@ Luz Rivas
 Jesus Medrano
 Ana Ruvalcaba
 Omoju
-
-
----
-
-## Jobs in computer science
+Limor Fried
+Rose Robinson
+Brian Lyles
 
 ---
 
-### If you like ... here's a job for you.
+<!--
+
+  Start "Jobs"
+
+-->
+
+---
+
+# Jobs 
+## :school: :office: :post_office: :hospital: :construction: :airplane:
+
+---
+
+# What
+
+## are computer science jobs?
+
+^ 1:20 pm
+
+---
+
+# If you like ... here's a job for you.
 
 Here's a job for you.
+
+---
+
+# Exercise
+
+## What?
+
+---
+
+# Exercise: What?
 
 Circle any that interest you.
 
 ---
 
-# JavaScript
+<!--
+
+  Start "Design"
+
+-->
 
 ---
 
-## Why JavaScript?
+# Design at Google 
+## :video_game: :musical_score: :musical_keyboard: :art:
 
-- Real world programming language
-- Web
-- User interfaces
-- Popular
+^ 1:30
 
 ---
 
-## Google Doodles
+# Google Doodles
 
 [Google Doodles](https://www.google.com/doodles?q=interactive)
 
 *Add image*
-[![https://www.google.com/doodles?q=interactive]()]
+
+https://www.google.com/doodles?q=interactive
 
 ---
 
-## Job 1:  Design a New Doodle
+## Job 1
 
-Software engineers and computer scientists do this every day.
+# Design a New Doodle
+
+^ Software engineers and computer scientists do this every day.
 
 ---
 
-### Step 1 - Try the Doodles
+# Step 1: Try the Doodles
 
 [https://www.google.com/logos/2017/fischinger/fischinger17.html](https://www.google.com/logos/2017/fischinger/fischinger17.html)
 
@@ -131,56 +187,95 @@ Software engineers and computer scientists do this every day.
 
 ---
 
-### Step 2 - Inspect the Doodles
+# Step 2: Design/UX Review
 
-Web inspector in Chrome
-
----
-
-### Step 3 - Design/UX Review
-
-- Pick a Doodle.
-- What did you like best?
+**Pick a Doodle.**
+- What do you like best?
 - What would you change?
 
 ---
 
-### Step 4 - Sketch a new doodle
+# Step 3: Sketch a new doodle
 
-- Sketch what new doodle would be
+- Sketch
+- What would be interactive?
+- Theme/Subject of doodle
+- Share with someone
 
 ---
 
-### What you learned in Job #1
+# Extra: Inspect the doodles
+
+Explore doodle web page with Chrome Developer tools.
+
+- Menu: View -> Developer -> View source
+- Menu: View -> Developer -> JavaScript Console
+- Menu: View -> Developer -> Developer tools
+
+[:eyes: JavaScript documentation from Mozilla :eyes:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
+## Job 1 - Completed :tada:
+
+# Computer Science skills
 
 - Product research
-- Computer Human Interaction
-- Code complexity
-- User Interface (UX)
 - Design
+- User Interface (UX)
+- Computer Human Interactions
 
 ---
 
-## Job 2: Get started with JavaScript
+<!--
+
+  Start "P5js - Job 2"
+
+-->
 
 ---
 
-### Processing.org
+## Job 2
+
+#  Get started with JavaScript
 
 ---
 
-### https://alpha.editor.p5js.org/
+# p5js
+
+## Processing.org
 
 ---
 
+# See an example
 
-### p5js.org
+### *add link*
+
+---
+
+# Explore documentation
+
+### https://p5js.org
 
 ES and EN
 
 ---
 
-## Job 3: Basic shapes
+# Try the editor
+
+### https://alpha.editor.p5js.org/
+
+---
+
+<!--
+
+  Start "P5js - Job 3 - drawing"
+
+-->
+
+---
+
+## Job 3: Drawing
 
 ---
 
@@ -230,6 +325,7 @@ pixelsFromTop | : )
 ```javascript
 ellipse(50, 50, 80, 80);
 ```
+
 ---
 
 ```javascript
@@ -252,11 +348,13 @@ ellipse(50, 50, 80, 80);
 
 ---
 
-## Job 5: Interactive app
+## Job 5: Interactivity
 
 ---
 
-## Job 6: Codepen
+## EXTRA - Job 6: Styling for the web
+
+Codepen
 
 ---
 
