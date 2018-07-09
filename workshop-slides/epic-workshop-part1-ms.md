@@ -92,8 +92,6 @@ bump to 15 minutes
 ![](images/diygirls.png)
 ![](images/uber-jesus.png)
 
-^ add a table with photos of all
-
 ---
 
 ### Task
@@ -180,7 +178,7 @@ bump to 15 minutes
 - Find a role model
 - Ask questions
 
-## :tada: Completed :tada:
+## :smile: Completed :smile:
 
 ---
 
@@ -280,13 +278,13 @@ See the [Google Doodles](https://www.google.com/doodles) page.
 
 ---
 
-# Extra: Inspect the doodles
+## Extra: Developer tools
 
-Explore doodle web page with Chrome Developer tools.
+Inspect doodle web page with Chrome Developer tools.
 
-- Menu: View -> Developer -> View source
-- Menu: View -> Developer -> JavaScript Console
-- Menu: View -> Developer -> Developer tools
+- View :arrow_right: Developer :arrow_right: View source
+- View :arrow_right: Developer :arrow_right: JavaScript Console
+- View :arrow_right: Developer :arrow_right: Developer tools
 
 [Google Web documentation](https://developers.google.com/web/)
 
@@ -355,8 +353,8 @@ Skills used:
 
 # Interact
 
-### Move mouse over image
-### Change | Run | Change | Run
+- Move mouse over image
+- Change | Run | Change | Run
 
 ---
 
@@ -379,6 +377,26 @@ Skills used:
 
 ---
 
+# Modern websites
+
+In general:
+
+- HTML :arrow_right: Structure
+- CSS :arrow_right: Style
+- JavaScript (`.js`) :arrow_right: interactivity
+
+:bulb: [codepen.io](https://codepen.io) to test code :bulb:
+
+![right, fit](images/codepen.png)
+
+---
+
+# `sketch.js` is a JavaScript file
+
+[.code: auto(42), line-height(2.0)]
+
+**`sketch.js`**
+
 ```javascript
 function setup() {
   // put setup code here
@@ -391,7 +409,11 @@ function draw() {
 
 ---
 
-```html
+# `index.html`
+
+[.code: auto(42), line-height(2.0)]
+
+```html, [.highlight: 7, 10]
 <!DOCTYPE html>
 <html>
   <head>
@@ -410,7 +432,29 @@ function draw() {
 
 ---
 
+### Canvas
+
+Like a painter, it is where you draw.
+
+[.code: auto(42), line-height(2.0)]
+
+```javascript, [.highlight: 2]
+function setup() {
+  createCanvas(300, 100);  // Canvas width is 300 pixels, height is 100 pixels
+}
+
+function draw() {
+  // put drawing code here
+}
+```
+
+![right](images/canvas-300-100.png)
+
+---
+
 ### Draw an ellipse on the screen
+
+A circle is an ellipse where `width = height`
 
 ```javascript
 ellipse(pixelsFromLeft, pixelsFromTop, width, height)
@@ -486,31 +530,45 @@ https://mybinder.org
 
 ## Research new applications
 
----
-
 ### AI and Machine Learning Examples
 
-https://experiments.withgoogle.com/ai/ai-duet/view/
+[AI Duet](https://experiments.withgoogle.com/ai/ai-duet/view/)
 
-https://experiments.withgoogle.com/ai/sound-maker/view/
-
----
-
-## High school classes
+[Sound-Maker](https://experiments.withgoogle.com/ai/sound-maker/view/)
 
 ---
 
 ## Tutorials
 
-http://hello.p5js.org/
+[https://hello.p5js.org/](https://hello.p5js.org/)
+
+[https://hello.processing.org](https://hello.processing.org)
+
+[https://learn.adafruit.com](https://learn.adafruit.com)
 
 ---
 
-# What we did
+## School classes
+
+- College ready curriculum
+- Ask questions
+- Remember, you can :smile:
 
 ---
 
-## Accomplishments
+# Accomplishments
+
+| Number     | Project    |
+|-----------|-------------|
+| *1* | People      |
+| *2* | Careers     |
+| *3* | Design at Google |
+|   | **p5.js**       |
+| *4* | Getting started |
+| *5* | Draw |
+| *6* | Motion |
+| *7* | Jupyter and mybinder.org |
+| *8* | Next steps  |
 
 ---
 
