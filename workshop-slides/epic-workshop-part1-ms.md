@@ -88,6 +88,10 @@ bump to 15 minutes
 
 # Who uses computer science?
 
+![](images/luz.png)
+![](images/diygirls.png)
+![](images/uber-jesus.png)
+
 ^ add a table with photos of all
 
 ---
@@ -103,51 +107,68 @@ bump to 15 minutes
 
 # Luz Rivas
 
-^ California, Assembly 
-DIY Girls, Founder
-Maker
+## [California 39th District, Assembly](https://www.luzforassembly.com/)
+## [DIY Girls, Founder](https://www.diygirls.org/founder/)
+
+![right, fit](images/luz.png)
+
+![left, inline](images/diygirls.png)
 
 ---
 
 # Jesus Medrano
 
-^ Uber Eats, Software Engineer
+![right, fit](images/uber-jesus.png)
+
+## [Uber Eats, Software Engineer](https://eng.uber.com/android-eats/)
 
 ---
 
-# Omoju
+# Omoju Miller
 
-^ GitHub, Data Scientist
+## GitHub, Data Scientist
+
+[About Omoju](http://omojumiller.com/about/)
+
+[“On learning AI: The myth of innate ability in tech.”](https://youtu.be/BFWVHSeakkg?t=7s)
+
+![left, fit](https://youtu.be/BFWVHSeakkg?t=7s)
 
 ---
 
 # Limor Fried
-# (Ladyada)
+# Ladyada
 
-^ Adafruit, Engineer and Business owner
+## [Adafruit](https://learn.adafruit.com), Founder and CEO
+## Electrical Engineer
 
----
-
-# Rose Robinson
-
-^ Community Manager, Systers and AnitaB.org
+![right, fit](https://youtu.be/V4WtPv0yWek)
 
 ---
 
 # Ana Ruvalcaba
 
-^ Jupyter, Operations Manager
+![right, fit](images/ana.jpg)
+
+## [Project Jupyter](https://jupyter.org), Operations Manager
 
 ---
 
 # Bryan Liles
 
-^ https://www.youtube.com/watch?v=fYCoEsc4aaE Cognitive Bias
-Heptio, Engineer
+![right, fit](images/bryan.png)
+
+## Heptio, Engineer
+
+[Cognitive Bias Talk](https://www.youtube.com/watch?v=fYCoEsc4aaE)
+
+[GitHub - Bryan Liles](https://github.com/bryanl)
 
 ---
 
 # You
+
+![right, fit](images/you.jpg)
 
 ---
 
