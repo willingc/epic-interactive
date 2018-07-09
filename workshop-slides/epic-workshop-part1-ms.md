@@ -434,73 +434,131 @@ function draw() {
 
 ### Canvas
 
-Like a painter, it is where you draw.
+The canvas coordinates are different than in math class.
+- top left `(0,0)`
+- bottom right `(width-1, height-1)`
 
 [.code: auto(42), line-height(2.0)]
 
-```javascript, [.highlight: 2]
+```javascript
+createCanvas(300, 100);  // Canvas width is 300 pixels, height is 100 pixels
+```
+
+![](images/canvas-300-100.png)
+
+For example:
+- top left `(0,0)`
+- bottom right `(299, 99)`
+
+---
+
+## Draw an ellipse and circle
+
+```javascript
+ellipse(centerPixelsFromLeft, centerPixelsFromTop, width, height);
+```
+
+*Example*
+
+[.code: auto(42), line-height(2.0)]
+
+```javascript, [.highlight: 6-7]
 function setup() {
-  createCanvas(300, 100);  // Canvas width is 300 pixels, height is 100 pixels
+  createCanvas(400, 400);
 }
 
 function draw() {
-  // put drawing code here
+  ellipse(150, 90, 20, 20);  // Draw a circle (width=height)
+  ellipse(200, 200, 80, 10); // Draw an ellipse
 }
 ```
 
-![right](images/canvas-300-100.png)
+---
+
+![fit](images/draw-ellipse.png)
 
 ---
 
-### Draw an ellipse on the screen
+## Draw more shapes
 
-A circle is an ellipse where `width = height`
+[.code: auto(42), line-height(2.0)]
 
-```javascript
-ellipse(pixelsFromLeft, pixelsFromTop, width, height)
-```
-
-ellipse( :arrow_right: , :arrow_down: , )             
-pixelsFromLeft | ---> |
-pixelsFromTop | : )
-
-**Example**
-
-```javascript
-ellipse(50, 50, 80, 80);
-```
-
----
-
-```javascript
+```javascript, [.highlight: 6-10]
 function setup() {
-  // put setup code here
+  createCanvas(400, 400);
 }
 
 function draw() {
-  // put drawing code here
+  ellipse(150, 90, 20, 20);  // Draw a circle (width=height)
+  ellipse(200, 200, 80, 10); // Draw an ellipse
+  line(0, 0, 50, 50);
+  rectangle(300, 200, 50, 30);
+  rectangle(50, 70, 30, 30);
 }
 ```
 
 ---
 
-ellipse(50, 50, 80, 80);
+![fit](images/draw-shapes.png)
 
 ---
 
-## Project 6: Movement
+## Explore
+
+- Change values
+- Add a shape
+- Run examples
 
 ---
 
-## Project 7: Interactivity
+## Project 5
+
+# Drawing
+
+- Learn about HTML, CSS, JS files
+- Understand canvas
+- Code a shape
+- Code multiple shapes
+
+## :cake: Completed :cake:
 
 ---
 
-## EXTRA - Styling for the web
+## Project 6
 
-Codepen
+# Interactivity
 
 ---
+
+# Interactivity 1
+
+---
+
+![fit](images/interactive1.png)
+
+---
+
+# Interactivity 2
+
+---
+
+![fit](images/interactive2.png)
+
+---
+
+## Project 6
+
+# Interactivity
+
+- Use widgets
+- Control using mouse clicks
+
+
+## :ocean: Completed :ocean:
+
+---
+
+## Project
 
 # More real world
 
