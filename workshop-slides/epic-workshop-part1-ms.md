@@ -1,4 +1,4 @@
-footer: ©Carol Willing, 2018.
+footer: ©Carol Willing, 2018. [https://speakerdeck.com/willingc/interactivity-in-computer-science](https://speakerdeck.com/willingc/interactivity-in-computer-science)
 slidenumbers: true
 build-lists: true
 theme: Next, 2
@@ -7,7 +7,7 @@ theme: Next, 2
 # Interactivity
 ## in Computer Science
 
-### EPIC Middle School Workshop
+### EPIC Workshop
 ### July 2018
 
 ---
@@ -603,11 +603,27 @@ function draw() {
 
 ---
 
+# Color
+
+Red (`r`)
+
+Green (`g`)
+
+Blue (`b`)
+
+A color is a mix of red, green, blue.
+
+Color value: 0 to 255
+
+---
+
 ![fit](images/interactive1.png)
 
 ---
 
 # Interactivity 2
+
+## Sliders and Widgets
 
 ---
 
@@ -636,19 +652,37 @@ function draw() {
 ## Python
 
 
-https://python.org
+[https://python.org](https://python.org)
+
+Press the yellow button.
+
+![fit, right](images/python.png)
+
+---
+
+![inline](images/python-code.png)
+
+Use Python as an interactive calculator.
 
 ---
 
 ## Jupyter and Binder
 
-https://jupyter.org
+![fit,right](images/jupyter.png)
 
-https://try.jupyter.org
+[https://jupyter.org](https://jupyter.org)
 
-https://mybinder.org
+[https://try.jupyter.org](https://try.jupyter.org)
 
-----
+[https://mybinder.org](https://mybinder.org)
+
+---
+
+![inline](images/tryjupyter.png)
+
+[https://try.jupyter.org](https://try.jupyter.org)
+
+---
 
 ## Project 7
 
