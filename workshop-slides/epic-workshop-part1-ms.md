@@ -18,11 +18,33 @@ theme: Next, 2
 
 ---
 
+# Carol Willing
+
+Research Software Engineer, Cal Poly SLO
+
+Project Jupyter, Steering Council
+
+Python Software Foundation Fellow
+
+Python Core Developer
+
+Open Source Hardware and Software
+
+*Every day, I am a beginner at something.*
+
+**Learn. Build. Share.**
+
+![left](images/carol.jpg)
+
+---
+
 # Why Computer Science?
 
-- Applications for people
-- Life skill
-- Empowering
+---
+
+# Help people
+
+![](images/fablabteam.jpg)
 
 ---
 
@@ -32,15 +54,8 @@ theme: Next, 2
 - Expressive
 - Fun
 
----
+![](images/talktocomputers.jpg)
 
-# Programming Languages
-
-## JavaScript
-
-:snake:
-
-## Python
 ---
 
 # My Goals for this workshop
@@ -68,13 +83,9 @@ theme: Next, 2
 | *1:10 pm* | People      |
 | *1:20 pm* | Careers     |
 | *1:30 pm* | Design at Google |
-| *1:45pm*  | p5.js       |
-| *2:30 pm* | Jupyter and mybinder.org |
+| *1:45pm*  | JavaScript: p5.js       |
+| *2:30 pm* | Python: Jupyter and mybinder.org |
 | *2:45 pm* | Next steps  |
-
-^ Time for interest
-Less work or more work
-bump to 15 minutes
 
 ---
 
@@ -192,21 +203,79 @@ bump to 15 minutes
 
 ---
 
-Coding is one of many CS careers.
+# Coding
+
+## is one of many CS careers.
+
+![](images/oneearth.jpg)
 
 ---
 
-# If you like ... here's a job for you.
+## If you like ... 
 
-Here's a job for you.
+# Organizing, Planning Events
 
+- Community Manager
+- Operations Manager
+- Project Manager
+- Business Owner
+
+![right](images/saron.jpg)
+
+---
+
+## If you like ... 
+
+# Art
+
+- Designer
+- Computer Human Interaction Engineer
+- Animator
+- Web developer
+
+---
+
+## If you like ... 
+
+# Math
+
+- Data Scientist
+- Research Engineer
+
+![fit, right](images/portia.jpg)
+
+---
+
+## If you like ... 
+
+# Writing
+
+- Product Manager
+- Documentarian
+- Game Developer
+- Web Content Engineer
+
+---
+
+## If you like ... 
+
+# Music
+
+
+- Sound Engineer
+- Special effects
+- Computer Generated Musician
+
+![](images/pycaribbean.jpg)
 
 ---
 
 ### Task
 ## What interests you?
 
-Circle any careers that interest you.
+Explore coding and the many other Computer Science careers.
+
+Lifelong learning is important in Computer Science.
 
 ![right](https://youtu.be/lHC10q_a7Nc)
 
@@ -632,4 +701,12 @@ https://mybinder.org
 
 # Thank you
 
+willingc AT gmail DOT com
+
 ---
+
+## Attributions
+
+Photos:
+
+Videos:
