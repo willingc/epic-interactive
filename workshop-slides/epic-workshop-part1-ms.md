@@ -89,6 +89,10 @@ Open Source Hardware and Software
 
 ---
 
+# http://bit.ly/epic2018cs
+
+---
+
 ## Project 1
 
 # :smile: People & Teams :smile: 
