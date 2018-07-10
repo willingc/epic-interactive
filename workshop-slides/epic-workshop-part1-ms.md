@@ -627,12 +627,11 @@ function draw() {
 
 ---
 
-## Project
+## Project 7
 
-# More real world
+# Python, Jupyter, & Binder
 
 ---
-
 
 ## Python
 
@@ -651,11 +650,25 @@ https://mybinder.org
 
 ----
 
+## Project 7
+
+# Python, Jupyter, & Binder
+
+- Interactivity in the Real World
+- Python programming language
+- Project Jupyter - interactive notebooks
+- Binder - sharing notebooks
+
+
+## :snake: Completed :snake:
+
+---
+
 # What's next?
 
 ----
 
-## Research new applications
+## Try new applications
 
 ### AI and Machine Learning Examples
 
@@ -683,18 +696,20 @@ https://mybinder.org
 
 ---
 
-# Accomplishments
+# Great job!
+
+:tada: Your accomplishments :tada:
 
 | Number     | Project    |
 |-----------|-------------|
 | *1* | People      |
 | *2* | Careers     |
 | *3* | Design at Google |
-|   | **p5.js**       |
+|   | **Javascript: p5.js**       |
 | *4* | Getting started |
 | *5* | Draw |
-| *6* | Motion |
-| *7* | Jupyter and mybinder.org |
+| *6* | Interactivity |
+| *7* | Python: Jupyter and mybinder.org |
 | *8* | Next steps  |
 
 ---
